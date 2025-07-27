@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/IG/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe   -Wall -pedantic -g -std=gnu++17 -o CMakeFiles\\my_executable.dir\\image_loader.cpp.obj -c C:\\IG\\image_loader.cpp",
+  "file": "C:/IG/image_loader.cpp"
+},
+{
+  "directory": "C:/IG/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe   -Wall -pedantic -g -std=gnu++17 -o CMakeFiles\\my_executable.dir\\grayscale_utils.cpp.obj -c C:\\IG\\grayscale_utils.cpp",
+  "file": "C:/IG/grayscale_utils.cpp"
+},
+{
+  "directory": "C:/IG/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe   -Wall -pedantic -g -std=gnu++17 -o CMakeFiles\\my_executable.dir\\model.cpp.obj -c C:\\IG\\model.cpp",
+  "file": "C:/IG/model.cpp"
+},
+{
+  "directory": "C:/IG/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe   -Wall -pedantic -g -std=gnu++17 -o CMakeFiles\\my_executable.dir\\ig.cpp.obj -c C:\\IG\\ig.cpp",
+  "file": "C:/IG/ig.cpp"
+},
+{
+  "directory": "C:/IG/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe   -Wall -pedantic -g -std=gnu++17 -o CMakeFiles\\my_executable.dir\\pgm_writer.cpp.obj -c C:\\IG\\pgm_writer.cpp",
+  "file": "C:/IG/pgm_writer.cpp"
+},
+{
+  "directory": "C:/IG/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe   -Wall -pedantic -g -std=gnu++17 -o CMakeFiles\\my_executable.dir\\main.cpp.obj -c C:\\IG\\main.cpp",
+  "file": "C:/IG/main.cpp"
+}
+]
