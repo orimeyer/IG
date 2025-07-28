@@ -1,1 +1,1 @@
-This project implements the Integrated Gradients (IG) algorithm in C++ to visualize the importance of input pixels in the prediction of a neural network. The final output is a grayscale attribution image saved in .pgm format.
+# IG
