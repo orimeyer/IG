@@ -28,7 +28,7 @@ std::vector<std::vector<double>> compute_ig(
 
         for (int y = 0; y < height; ++y) {
             for (int x = 0; x < width; ++x) {
-                double grad = numeric_gradient(x_alpha, y, x);
+                double grad = numeric_gradient(x_alpha, y, x, 1e-3);
                 total_gradients[y][x] += grad;
             }
         }
