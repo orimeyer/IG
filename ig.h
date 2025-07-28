@@ -4,7 +4,6 @@
 
 #include <vector>
 
-// פונקציה שמחשבת Integrated Gradients בין baseline לתמונה המקורית
 std::vector<std::vector<double>> compute_ig(
     const std::vector<std::vector<double>>& input,
     const std::vector<std::vector<double>>& baseline,
